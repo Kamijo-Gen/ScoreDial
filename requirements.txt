@@ -1,0 +1,18 @@
+# Pinned versions (Python 3.12).
+# Install PyTorch first for your CUDA version, e.g. CUDA 12.8:
+#   pip install torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytorch.org/whl/cu128
+diffusers==0.38.0
+transformers==5.10.1
+peft==0.19.1
+accelerate==1.13.0
+huggingface_hub==1.17.0
+safetensors==0.8.0rc1
+tokenizers==0.22.2
+sentencepiece==0.2.1
+protobuf==7.35.1
+numpy==2.4.4
+scipy==1.17.1
+scikit-learn==1.9.0
+pandas==3.0.3
+openpyxl==3.1.5
+pillow==12.2.0

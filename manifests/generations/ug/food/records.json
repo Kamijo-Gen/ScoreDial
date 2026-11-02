@@ -1,0 +1,352 @@
+[
+ {
+  "target": 0.1,
+  "seed": 0,
+  "strength": 30.0,
+  "file": "w30_t0.100_s000.png",
+  "score": 0.23531165719032288
+ },
+ {
+  "target": 0.1,
+  "seed": 1,
+  "strength": 30.0,
+  "file": "w30_t0.100_s001.png",
+  "score": 0.3384578227996826
+ },
+ {
+  "target": 0.1,
+  "seed": 2,
+  "strength": 30.0,
+  "file": "w30_t0.100_s002.png",
+  "score": 0.4316460192203522
+ },
+ {
+  "target": 0.1,
+  "seed": 3,
+  "strength": 30.0,
+  "file": "w30_t0.100_s003.png",
+  "score": 0.39993393421173096
+ },
+ {
+  "target": 0.1,
+  "seed": 4,
+  "strength": 30.0,
+  "file": "w30_t0.100_s004.png",
+  "score": 0.24969357252120972
+ },
+ {
+  "target": 0.1,
+  "seed": 5,
+  "strength": 30.0,
+  "file": "w30_t0.100_s005.png",
+  "score": 0.4405686855316162
+ },
+ {
+  "target": 0.1,
+  "seed": 6,
+  "strength": 30.0,
+  "file": "w30_t0.100_s006.png",
+  "score": 0.4393647611141205
+ },
+ {
+  "target": 0.1,
+  "seed": 7,
+  "strength": 30.0,
+  "file": "w30_t0.100_s007.png",
+  "score": 0.2839009165763855
+ },
+ {
+  "target": 0.1,
+  "seed": 8,
+  "strength": 30.0,
+  "file": "w30_t0.100_s008.png",
+  "score": 0.35786962509155273
+ },
+ {
+  "target": 0.1,
+  "seed": 9,
+  "strength": 30.0,
+  "file": "w30_t0.100_s009.png",
+  "score": 0.31414681673049927
+ },
+ {
+  "target": 0.3,
+  "seed": 0,
+  "strength": 30.0,
+  "file": "w30_t0.300_s000.png",
+  "score": 0.315321147441864
+ },
+ {
+  "target": 0.3,
+  "seed": 1,
+  "strength": 30.0,
+  "file": "w30_t0.300_s001.png",
+  "score": 0.48307979106903076
+ },
+ {
+  "target": 0.3,
+  "seed": 2,
+  "strength": 30.0,
+  "file": "w30_t0.300_s002.png",
+  "score": 0.6188408136367798
+ },
+ {
+  "target": 0.3,
+  "seed": 3,
+  "strength": 30.0,
+  "file": "w30_t0.300_s003.png",
+  "score": 0.3910244405269623
+ },
+ {
+  "target": 0.3,
+  "seed": 4,
+  "strength": 30.0,
+  "file": "w30_t0.300_s004.png",
+  "score": 0.3772188425064087
+ },
+ {
+  "target": 0.3,
+  "seed": 5,
+  "strength": 30.0,
+  "file": "w30_t0.300_s005.png",
+  "score": 0.5725753307342529
+ },
+ {
+  "target": 0.3,
+  "seed": 6,
+  "strength": 30.0,
+  "file": "w30_t0.300_s006.png",
+  "score": 0.43434077501296997
+ },
+ {
+  "target": 0.3,
+  "seed": 7,
+  "strength": 30.0,
+  "file": "w30_t0.300_s007.png",
+  "score": 0.3969460129737854
+ },
+ {
+  "target": 0.3,
+  "seed": 8,
+  "strength": 30.0,
+  "file": "w30_t0.300_s008.png",
+  "score": 0.47580811381340027
+ },
+ {
+  "target": 0.3,
+  "seed": 9,
+  "strength": 30.0,
+  "file": "w30_t0.300_s009.png",
+  "score": 0.46688148379325867
+ },
+ {
+  "target": 0.5,
+  "seed": 0,
+  "strength": 30.0,
+  "file": "w30_t0.500_s000.png",
+  "score": 0.3966672122478485
+ },
+ {
+  "target": 0.5,
+  "seed": 1,
+  "strength": 30.0,
+  "file": "w30_t0.500_s001.png",
+  "score": 0.5219681262969971
+ },
+ {
+  "target": 0.5,
+  "seed": 2,
+  "strength": 30.0,
+  "file": "w30_t0.500_s002.png",
+  "score": 0.6437625288963318
+ },
+ {
+  "target": 0.5,
+  "seed": 3,
+  "strength": 30.0,
+  "file": "w30_t0.500_s003.png",
+  "score": 0.3811655640602112
+ },
+ {
+  "target": 0.5,
+  "seed": 4,
+  "strength": 30.0,
+  "file": "w30_t0.500_s004.png",
+  "score": 0.476983904838562
+ },
+ {
+  "target": 0.5,
+  "seed": 5,
+  "strength": 30.0,
+  "file": "w30_t0.500_s005.png",
+  "score": 0.4959843158721924
+ },
+ {
+  "target": 0.5,
+  "seed": 6,
+  "strength": 30.0,
+  "file": "w30_t0.500_s006.png",
+  "score": 0.5737211108207703
+ },
+ {
+  "target": 0.5,
+  "seed": 7,
+  "strength": 30.0,
+  "file": "w30_t0.500_s007.png",
+  "score": 0.44851383566856384
+ },
+ {
+  "target": 0.5,
+  "seed": 8,
+  "strength": 30.0,
+  "file": "w30_t0.500_s008.png",
+  "score": 0.5481135845184326
+ },
+ {
+  "target": 0.5,
+  "seed": 9,
+  "strength": 30.0,
+  "file": "w30_t0.500_s009.png",
+  "score": 0.5221091508865356
+ },
+ {
+  "target": 0.7,
+  "seed": 0,
+  "strength": 30.0,
+  "file": "w30_t0.700_s000.png",
+  "score": 0.5525843501091003
+ },
+ {
+  "target": 0.7,
+  "seed": 1,
+  "strength": 30.0,
+  "file": "w30_t0.700_s001.png",
+  "score": 0.5971530675888062
+ },
+ {
+  "target": 0.7,
+  "seed": 2,
+  "strength": 30.0,
+  "file": "w30_t0.700_s002.png",
+  "score": 0.7112457752227783
+ },
+ {
+  "target": 0.7,
+  "seed": 3,
+  "strength": 30.0,
+  "file": "w30_t0.700_s003.png",
+  "score": 0.681198000907898
+ },
+ {
+  "target": 0.7,
+  "seed": 4,
+  "strength": 30.0,
+  "file": "w30_t0.700_s004.png",
+  "score": 0.44780799746513367
+ },
+ {
+  "target": 0.7,
+  "seed": 5,
+  "strength": 30.0,
+  "file": "w30_t0.700_s005.png",
+  "score": 0.5618844628334045
+ },
+ {
+  "target": 0.7,
+  "seed": 6,
+  "strength": 30.0,
+  "file": "w30_t0.700_s006.png",
+  "score": 0.3647350072860718
+ },
+ {
+  "target": 0.7,
+  "seed": 7,
+  "strength": 30.0,
+  "file": "w30_t0.700_s007.png",
+  "score": 0.5698299407958984
+ },
+ {
+  "target": 0.7,
+  "seed": 8,
+  "strength": 30.0,
+  "file": "w30_t0.700_s008.png",
+  "score": 0.4263967275619507
+ },
+ {
+  "target": 0.7,
+  "seed": 9,
+  "strength": 30.0,
+  "file": "w30_t0.700_s009.png",
+  "score": 0.4807518422603607
+ },
+ {
+  "target": 0.9,
+  "seed": 0,
+  "strength": 30.0,
+  "file": "w30_t0.900_s000.png",
+  "score": 0.5574243068695068
+ },
+ {
+  "target": 0.9,
+  "seed": 1,
+  "strength": 30.0,
+  "file": "w30_t0.900_s001.png",
+  "score": 0.6122477054595947
+ },
+ {
+  "target": 0.9,
+  "seed": 2,
+  "strength": 30.0,
+  "file": "w30_t0.900_s002.png",
+  "score": 0.6345478892326355
+ },
+ {
+  "target": 0.9,
+  "seed": 3,
+  "strength": 30.0,
+  "file": "w30_t0.900_s003.png",
+  "score": 0.6885582208633423
+ },
+ {
+  "target": 0.9,
+  "seed": 4,
+  "strength": 30.0,
+  "file": "w30_t0.900_s004.png",
+  "score": 0.38030004501342773
+ },
+ {
+  "target": 0.9,
+  "seed": 5,
+  "strength": 30.0,
+  "file": "w30_t0.900_s005.png",
+  "score": 0.49843457341194153
+ },
+ {
+  "target": 0.9,
+  "seed": 6,
+  "strength": 30.0,
+  "file": "w30_t0.900_s006.png",
+  "score": 0.6213780641555786
+ },
+ {
+  "target": 0.9,
+  "seed": 7,
+  "strength": 30.0,
+  "file": "w30_t0.900_s007.png",
+  "score": 0.7318058609962463
+ },
+ {
+  "target": 0.9,
+  "seed": 8,
+  "strength": 30.0,
+  "file": "w30_t0.900_s008.png",
+  "score": 0.6254669427871704
+ },
+ {
+  "target": 0.9,
+  "seed": 9,
+  "strength": 30.0,
+  "file": "w30_t0.900_s009.png",
+  "score": 0.5830428004264832
+ }
+]

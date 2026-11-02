@@ -1,0 +1,10 @@
+# Datasets (obtain from their original sources, see README)
+data/
+
+# Everything the scripts write: regressors, trained weights, generated images, evaluations
+outputs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
