@@ -16,7 +16,7 @@ pip install torch==2.11.0 torchvision==0.26.0 --index-url https://download.pytor
 pip install -r requirements.txt
 ```
 
-The base model is [`stabilityai/stable-diffusion-3.5-medium`](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium) at revision `b940f670`. Accept its license on Hugging Face and log in (`huggingface-cli login`) before the first run. The soap regressor uses DINOv3 (`facebook/dinov3-vitb16-pretrain-lvd1689m`), which is also gated.
+The base model is [`stabilityai/stable-diffusion-3.5-medium`](https://huggingface.co/stabilityai/stable-diffusion-3.5-medium) at revision `b940f670`. Accept its license on Hugging Face and log in (`hf auth login`) before the first run. The soap regressor uses DINOv3 (`facebook/dinov3-vitb16-pretrain-lvd1689m`), which is also gated.
 
 On one RTX 5090, ScoreDial takes about 30 s per 1024-px image at a peak of 12 GB of GPU memory.
 
