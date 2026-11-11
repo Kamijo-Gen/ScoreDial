@@ -1,6 +1,6 @@
 # ScoreDial
 
-Code for **ScoreDial: Precise Control of Visual Attributes in Image Generation via Regressor Guidance from Limited Human Ratings** (WACV 2027, Applications Track).
+Code for **ScoreDial: Precise Control of Visual Attributes in Image Generation via Regressor Guidance from Limited Human Ratings** (WACV 2027).
 
 Given a requested value *c* on a human-rating scale, ScoreDial generates an image whose attribute attains that value, using only 100–479 rated images per attribute:
 
